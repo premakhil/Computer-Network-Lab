@@ -7,6 +7,7 @@
 #include<netinet/in.h>
 #include<sys/types.h>
 #include<netinet/in.h>
+#include <unistd.h>
 #define BUF_SIZE 256
 
 int main(int argc, char* argv[])
