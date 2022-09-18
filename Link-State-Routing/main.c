@@ -1,3 +1,4 @@
+// Link State Routing
 #include<stdio.h>
 
 void shortest_path(int n , int cost[n][n] , int src) 
